@@ -39,6 +39,18 @@ public class Main {
 	    System.out.println(output);
 	*/
 	
+		// 策略模式
+//		Plus plus = new Plus();
+//		Minus minus = new Minus();
+//		Multipy multipy = new Multipy();
+//		System.out.println(plus.calculator("100+100"));
+//		System.out.println(minus.calculator("100-17"));
+//		System.out.println(multipy.calculator("10*20"));
+		// 模板模式
+//		AbstractPeople student = new Student();
+//		AbstractPeople teacher = new Teacher();
+//		student.prepareToSchool();
+//		teacher.prepareToSchool();
 	}
 
 }

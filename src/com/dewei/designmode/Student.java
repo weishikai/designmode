@@ -1,5 +1,10 @@
 package com.dewei.designmode;
 
+/**
+ * 模板模式
+ * @author sa
+ *
+ */
 public class Student extends AbstractPeople {
 
 	@Override
