@@ -51,6 +51,13 @@ public class Main {
 //		AbstractPeople teacher = new Teacher();
 //		student.prepareToSchool();
 //		teacher.prepareToSchool();
+//		String s = "abcd";
+//		String s1 = s;
+//		String s2 = new String("abcd");
+//		if(s2.equals(s1)) {
+//			System.out.println(true);
+//		}
+		// 观察者模式
 	}
 
 }
